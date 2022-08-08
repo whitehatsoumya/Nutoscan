@@ -82,6 +82,6 @@ You might be super excited to use this tool, me too. But here is the problem! wh
 local, state and federal laws. 
 
 
-If this project help you reduce time to develop, you can give me a cup of coffee :) 
+If you love and supoort my work then you can give me a cup of coffee :) 
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/whitehatsoumya)
