@@ -24,9 +24,9 @@ chmod +x Nutoscan.sh
 
 **Usage**
 
-Help: ``` Nutoscan.sh -h ``` or ``` Nutoscan.sh --help ```
+Help: ``` ./Nutoscan.sh -h ``` or ``` ./Nutoscan.sh --help ```
 
-Basic Scan: ``` Nutoscan.sh -H/--host <TARGET-IP> -t/--type <TYPE> ```
+Basic Scan: ``` ./Nutoscan.sh -H/--host <TARGET-IP> -t/--type <TYPE> ```
 
 Scan Types:                                                                                                                            
         Network : Shows all live hosts in the host's network (Approx 15 seconds)                                                       
@@ -40,21 +40,21 @@ Scan Types:
         
  **Examples** 
  
-Network Scan: ``` Nutoscan.sh -H <TARGET-IP> -t Network ```
+Network Scan: ``` ./Nutoscan.sh -H <TARGET-IP> -t Network ```
 
-Basic Port Scan: ``` Nutoscan.sh -H <TARGET-IP> -t Port ```
+Basic Port Scan: ``` ./Nutoscan.sh -H <TARGET-IP> -t Port ```
 
-Script Scan: ``` Nutoscan.sh -H <TARGET-IP> -t Script ```
+Script Scan: ``` ./Nutoscan.sh -H <TARGET-IP> -t Script ```
 
-Full Scan: ``` Nutoscan.sh -H <TARGET-IP> -t Full ```
+Full Scan: ``` ./Nutoscan.sh -H <TARGET-IP> -t Full ```
 
-UDP Scan: ``` Nutoscan.sh -H <TARGET-IP> -t UDP ```
+UDP Scan: ``` ./Nutoscan.sh -H <TARGET-IP> -t UDP ```
 
-Vulns Scan: ``` Nutoscan.sh -H <TARGET-IP> -t Vulns ```
+Vulns Scan: ``` ./Nutoscan.sh -H <TARGET-IP> -t Vulns ```
 
-Recon: ``` Nutoscan.sh -H <TARGET-IP> -t Recon ```
+Recon: ``` ./Nutoscan.sh -H <TARGET-IP> -t Recon ```
 
-All: ``` Nutoscan.sh -H <TARGET-IP> -t All ```
+All: ``` ./Nutoscan.sh -H <TARGET-IP> -t All ```
 
 
 **Note**
