@@ -31,7 +31,9 @@ Help: ``` ./Nutoscan.sh -h ``` or ``` ./Nutoscan.sh --help ```
 
 Basic Scan: ``` ./Nutoscan.sh -H/--host <TARGET-IP> -t/--type <TYPE> ```
 
-<img width="960" alt="Nutoscan2" src="https://user-images.githubusercontent.com/67961316/183405098-08d25693-13dd-4790-a342-974048cce3a2.png">
+
+
+<img width="960" alt="Nutoscan4" src="https://user-images.githubusercontent.com/67961316/183406025-c9654503-4552-483e-a8e1-10a024b4113f.png">
 
 
 Scan Types:                                                                                                                            
@@ -65,6 +67,13 @@ All: ``` ./Nutoscan.sh -H <TARGET-IP> -t All ```
 
 **Note**
 In Recon Scan It will prompt you to select options, you can select accordingly or else it will automatically scan all the available recon tools which has been already installed with your system!
+
+
+<img width="960" alt="Nutoscan2" src="https://user-images.githubusercontent.com/67961316/183405098-08d25693-13dd-4790-a342-974048cce3a2.png">
+
+
+<img width="960" alt="Nutoscan3" src="https://user-images.githubusercontent.com/67961316/183406135-31523856-6290-491a-8550-b08a94b54e32.png">
+
 
 
 **Legal Disclaimer**:
