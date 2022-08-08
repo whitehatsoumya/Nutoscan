@@ -1,7 +1,7 @@
 **About Nutoscan**
 
 
-Nutoscan is an automated Network Vulnerability Scanner and Reconnaissance tool. It performs a wide range of scans like live Host Scanning, Port Scanning, Nmap Script Scans, Vulnerability Scanning OS detection, UDP Scan and Recon on the target system.
+Nutoscan is an automated Network Vulnerability Scanner and Reconnaissance tool. It performs a wide range of scans like live Host Scanning, Port Scanning, Nmap Script Scans, Vulnerability Scanning, CVE Scanning OS Detection, UDP Scan and Recon on the target system.
 
 **Key Features**
 
