@@ -16,13 +16,21 @@ It can automatically fuzzing the directories.
 **Summarize Key Features**
 
 Auto Recon
+
 Automated Vulnerability Scanning
+
 Common Ports Scanning
+
 All Ports Scanning
+
 CVE Scanning
+
 Fuzzing Directories
+
 Automated Output
+
 And much more
+
 
 **Installation**
 ```
