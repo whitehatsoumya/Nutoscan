@@ -1,6 +1,9 @@
 **About Nutoscan**
 
 
+<img width="960" alt="Nutoscan" src="https://user-images.githubusercontent.com/67961316/183405168-a215b8f5-cad4-492d-bcf7-79c1e5a38827.png">
+
+
 Nutoscan is an automated Network Vulnerability Scanner and Reconnaissance tool. It performs a wide range of scans like live Host Scanning, Port Scanning, Nmap Script Scans, Vulnerability Scanning, CVE Scanning OS Detection, UDP Scan and Recon on the target system.
 
 **Key Features**
@@ -27,6 +30,9 @@ chmod +x Nutoscan.sh
 Help: ``` ./Nutoscan.sh -h ``` or ``` ./Nutoscan.sh --help ```
 
 Basic Scan: ``` ./Nutoscan.sh -H/--host <TARGET-IP> -t/--type <TYPE> ```
+
+<img width="960" alt="Nutoscan2" src="https://user-images.githubusercontent.com/67961316/183405098-08d25693-13dd-4790-a342-974048cce3a2.png">
+
 
 Scan Types:                                                                                                                            
         Network : Shows all live hosts in the host's network (Approx 15 seconds)                                                       
