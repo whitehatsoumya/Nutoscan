@@ -10,7 +10,7 @@ Nutoscan is an automated Network Vulnerability Scanner and Reconnaissance tool. 
 
 
 It will automatically check all the available recon tools in your system and it will suggest some available options to select. If you don't select any option, then it'll automatically select the default scan which includes all the available methods.
-It will automatically automatically create a folder and save the default scan results. As well as you can also give your custom output path to save your scanning results.
+It will automatically create a folder and save the default scan results. As well as you can also give your custom output path to save your scanning results.
 
 **Installation**
 ```
