@@ -1,7 +1,11 @@
 **About Nutoscan**
+
+
 Nutoscan is an automated Network Vulnerability Scanner and Reconnaissance tool. It performs a wide range of scans like live Host Scanning, Port Scanning, Nmap Script Scans, Vulnerability Scanning OS detection, UDP Scan and Recon on the target system.
 
 **Key Features**
+
+
 It will automatically check all the available recon tools in your system and it will suggest some available options to select. If you don't select any option, then it'll automatically select the default scan which includes all the available methods.
 It will automatically automatically create a folder and save the default scan results. As well as you can also give your custom output path to save your scanning results.
 
@@ -37,19 +41,27 @@ Scan Types:
  **Examples** 
  
 Network Scan: ``` Nutoscan.sh -H <TARGET-IP> -t Network ```
+
 Basic Port Scan: ``` Nutoscan.sh -H <TARGET-IP> -t Port ```
+
 Script Scan: ``` Nutoscan.sh -H <TARGET-IP> -t Script ```
+
 Full Scan: ``` Nutoscan.sh -H <TARGET-IP> -t Full ```
+
 UDP Scan: ``` Nutoscan.sh -H <TARGET-IP> -t UDP ```
+
 Vulns Scan: ``` Nutoscan.sh -H <TARGET-IP> -t Vulns ```
+
 Recon: ``` Nutoscan.sh -H <TARGET-IP> -t Recon ```
+
 All: ``` Nutoscan.sh -H <TARGET-IP> -t All ```
+
 
 **Note**
 In Recon Scan It will prompt you to select options, you can select accordingly or else it will automatically scan all the available recon tools which has been already installed with your system!
 
 
-**Legal Disclaimer:
+**Legal Disclaimer**:
 
 You might be super excited to use this tool, me too. But here is the problem! whitehatsoumya, Soumyaranjan Pradhan and Github won't be responsible for any actions made by you. This tool is made for security research and education purposes only. It is the end user's responsibility to obey all applicable 
 local, state and federal laws. 
