@@ -92,7 +92,7 @@ In Recon Scan It will prompt you to select options, you can select accordingly o
 
 **Legal Disclaimer**:
 
-You might be super excited to use this tool, me too. But here is the problem! whitehatsoumya, Soumyaranjan Pradhan and Github won't be responsible for any actions made by you. This tool is made for security research and education purposes only. It is the end user's responsibility to obey all applicable 
+You might be super excited to use this tool, me too. But here is the problem! whitehatsoumya or Github won't be responsible for any actions made by you. This tool is made for security research and education purposes only. It is the end user's responsibility to obey all applicable 
 local, state and federal laws. 
 
 
